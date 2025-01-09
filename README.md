@@ -18,7 +18,7 @@ Aplikasi Flutter untuk menjelajahi dan mendapatkan informasi tentang anime mengg
 ## Instalasi  
 
    ```bash  
-   git clone https://github.com/zakysatya/my-anime-list-flutter-app.git)
+   git clone https://github.com/zakysatya/my-anime-list-flutter-app.git
    cd repository 
    flutter pub get
    flutter run
