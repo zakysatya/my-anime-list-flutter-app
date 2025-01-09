@@ -1,16 +1,29 @@
-# myanimelist
+# ZsAnimeList Flutter App  
 
-A new Flutter project.
+Aplikasi Flutter untuk menjelajahi dan mendapatkan informasi tentang anime menggunakan API dari Jikan.  
 
-## Getting Started
+## Fitur  
 
-This project is a starting point for a Flutter application.
+- Pencarian anime  
+- Halaman detail anime
+- Halaman Rekomendasi anime  
+- Halaman profil pengguna dengan autentikasi Firebase  
+- Menampilkan daftar anime berdasarkan popularitas, top, dan airing  
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install)  
+- [Dart](https://dart.dev/get-dart)  
+- [Android Studio](https://developer.android.com/studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalasi  
+
+Ikuti langkah-langkah berikut untuk mengatur proyek ini di mesin lokal Anda:  
+
+1. **Clone Repository**  
+
+   ```bash  
+   git clone https://github.com/username/repository.git  
+   cd repository
+   flutter pub get
+   flutter run
