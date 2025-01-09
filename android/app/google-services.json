@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512394904295",
+    "project_id": "flutter-zsanimelist",
+    "storage_bucket": "flutter-zsanimelist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512394904295:android:eb9333e570f74213ef9842",
+        "android_client_info": {
+          "package_name": "com.zs.myanimelist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPG6kGjAlSIhPc-tMj0nPL1_AJMdgtC8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
